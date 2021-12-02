@@ -1,0 +1,15 @@
+pg: { /*From:  | To: */
+title: "", 
+story:``,
+image: "", 
+choices: [
+	{
+	choice: "",
+	destination: ''
+	},
+	{
+	choice: "", 
+	destination: ''
+	}
+]
+},
